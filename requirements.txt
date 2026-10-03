@@ -1,0 +1,2 @@
+# Dependências mínimas para validação da camada complementar do projeto
+pytest>=8.0.0
